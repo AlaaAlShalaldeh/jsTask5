@@ -1,0 +1,26 @@
+body{
+    background-color: #eee;
+}
+.to-do{
+    background-color: white;
+    width: 300px;
+    /* text-align: center; */
+    padding: 20px;
+    margin: auto;
+}
+.add{
+    background-color: green;
+    color: white;
+    
+}
+input{
+    padding:8px 10px;
+}
+
+ul{
+    
+    list-style-type: none;
+}
+.under-line{
+    text-decoration:line-through;
+}   
